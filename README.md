@@ -1,4 +1,4 @@
-# python-basics
+# Fundamentos de Python
 
 Este repositório contém scripts simples em Python criados para praticar fundamentos de programação.
 
